@@ -1,0 +1,9 @@
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langchainhub
+langchain-groq
+langgraph
+pydentic
+langchain_classic
